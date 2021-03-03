@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Add your FDL domains here -->
+    <string name="fdl_1" translatable="false">link3.page.link</string>
+    <string name="fdl_2" translatable="false">link4.page.link</string>
+
+    <!-- list of all FDLs -->
+    <string-array name="fdls">
+        <item>@string/fdl_1</item>
+        <item>@string/fdl_2</item>
+    </string-array>
+
+</resources>
